@@ -13,6 +13,7 @@ about Coldplay's fan engagement and musical influence.
 3. [Advanced Analytics](#advanced-analytics)
 4. [Dashboard Visualizations](#dashboard-visualizations)
 5. [Conclusion and Future Work](#conclusion-and-future-work)
+6. [Data Visualisation](#Data-Visualisation)
 
 ## 1. Data Collection and Preparation
 ### YouTube Data Collection:
@@ -60,7 +61,12 @@ about Coldplay's fan engagement and musical influence.
 - Highlighted Coldplay's strong fan engagement and the effectiveness of their collaborations.
 - Demonstrated the use of data analytics to derive actionable insights.
 
-## Data Visualizations
+### Future Enhancements:
+- Incorporate data from additional social media platforms like Twitter and Instagram.
+- Use more advanced machine learning models for deeper insights.
+- Explore real-time analytics for up-to-date fan engagement monitoring.
+
+## 6. Data Visualizations
 
 ### 1. Count of Comments by Month and VideoID
 ![Count of Comments by Month and VideoID](https://github.com/amitgrewal4/3_social_media_analytics_coldplay/assets/140138833/886115af-fbce-46d6-a328-2802a0ba662b)
@@ -94,9 +100,3 @@ Visualizes the common bigrams in YouTube comments.
 ### 8. Centrality Measures in YouTube Comments
 ![Centrality Measures in YouTube Comments](https://github.com/amitgrewal4/3_social_media_analytics_coldplay/assets/140138833/dd142b50-177f-44df-bfe0-b564402aa685)
 Shows the centrality measures of users in YouTube comments, highlighting influential users.
-
-
-### Future Enhancements:
-- Incorporate data from additional social media platforms like Twitter and Instagram.
-- Use more advanced machine learning models for deeper insights.
-- Explore real-time analytics for up-to-date fan engagement monitoring.
